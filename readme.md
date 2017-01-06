@@ -8,6 +8,12 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 
 -
 
+### About me
+
+I'm Chetan Raj, a Front-End Developer, JavaScript Lover and Hobbyist based in Bangalore, India. I write articles in [JavaScript Essentials](https://medium.com/jsessentials). I design and build web applications. Recently started building Electron Apps.
+
+[chetanraj.in](http://chetanraj.in/), [@chetan_raj](https://twitter.com/chetan_raj), [thecjstream](https://www.instagram.com/thecjstream/)
+
 ### Guidelines
 
 - Ensure your question hasn't already been answered.
